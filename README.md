@@ -2,12 +2,13 @@
 
 I usualy go by Shrayzz on social media, but you can also call me by my IRL name, Renaud. 😎
 
-I'm a French student in computer science, in second year of a bachelor's degree 📚
+I'm a French student in computer science, in thirs (and last !) year of a bachelor's degree 📚
 
 
 ## Langages/Frameworks/Technologies
 
 NOTE : These are relatives to my current level  
+TODO : Update theses lists
 
 ### I like/am at ease in  
 <a href="https://skillicons.dev">
